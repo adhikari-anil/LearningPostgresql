@@ -1,0 +1,16 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "1. postgresql\r   2. ://\r   3. username\r   4. password\r   5. Host\r   6. DBname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/pg": "^8.11.6",
+    "pg": "^8.12.0"
+  }
+}
